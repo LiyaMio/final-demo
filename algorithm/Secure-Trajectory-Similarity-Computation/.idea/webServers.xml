@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61e09217-6a75-4148-a1f5-a1cba3658943" name="tower7920-1.0">
+        <fileTransfer rootFolder="/home/tower7920/Shizhan/Secure-Trajectory-Similarity-Computation-BD-v1.0" accessType="SFTP" host="59.73.128.254" port="22" sshConfigId="af4ab054-26c3-4378-aa09-00c40cf23b60" sshConfig="tower7920@59.73.128.254:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
